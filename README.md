@@ -7,7 +7,7 @@ vacine-ja-grupo-10 created by GitHub Classroom
 <p/>
 
 ## **`Vacine ja!`**
-O "Vacine ja!" realizado pelo grupo 10 é um sistema que tem o objetivo de permitir que funcionários e profissionais de saúde façam o acompanhamento da imunização no país. Além disso, a população vai se beneficiar com este sistema para ser notificada das datas e locais de vacinação.
+O "Vacine ja!" é um sistema que tem o objetivo de permitir que funcionários e profissionais de saúde façam o acompanhamento da imunização no país. Além disso, a população vai se beneficiar com este sistema para ser notificada das datas e locais de vacinação.
 
 ---
 <p  align="center">
